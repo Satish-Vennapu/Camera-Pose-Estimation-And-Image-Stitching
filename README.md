@@ -10,13 +10,13 @@ Specifically, the Hough transform technique in this project is utilized to detec
 Another task achieved through this project is Image Stitching through the Homography technique. Homography is a transformation used in computer vision and image processing to map points from one plane to another. In this specific context of image stitching, homography is utilized to align multiple images taken from different viewpoints into a single panoramic image. The process involves finding the homography matrix that describes the geometric transformation between two images, allowing for the seamless merging of their contents.
 
 ## Instructions for Problem1.py : 
-1. Open the Problem1.py file from the code Folder using VSCode or any Python IDE. 
+1. Open the proj2_q1_ex.py file from the code Folder using VSCode or any Python IDE. 
 2. Before running the file please make sure the "project2.avi" file is in the same folder as this script.
 3. Install necessary libraries such as OpenCV, NumPy, and Matplotlib.
 4. The Video frame of the corner of the paper and edges are shown. The Final Plots will be shown on the screen once the video is finished running.
 
 ## Instructions for Problem2.py: 
-1. Open the Problem2.py  file from the code Folder using VSCode or any Python IDE. 
+1. Open the proj2_q2_ex.py  file from the code Folder using VSCode or any Python IDE. 
 2. Before running the file please make sure the image files are in the same folder as this script.
 3. Install necessary libraries such as OpenCV, NumPy, and Matplotlib.
 4. The plot of various images is shown on the console.
